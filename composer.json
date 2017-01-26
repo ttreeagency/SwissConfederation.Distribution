@@ -23,6 +23,7 @@
         "ttree/swissconfederation-webstarter": "@dev",
         "ttree/fusion-documentfinder": "@dev",
         "ttree/fusion-canrender": "@dev",
+        "ttree/stylesheet": "@dev",
 
         "neos/party": "@dev",
 
