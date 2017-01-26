@@ -3689,7 +3689,7 @@
             "source": {
                 "type": "git",
                 "url": "ssh://git@github.com/ttreeagency/SwissConfederation.WebStarter.git",
-                "reference": "2217704d4afd6bbf13844401c23d279df85ead6d"
+                "reference": "9c709c519309ac7493c3f3093b0115ff5c937221"
             },
             "require": {
                 "ttree/fusion-documentfinder": "*",
@@ -3779,7 +3779,7 @@
                 }
             },
             "description": "Swiss Confederation Web Guidelines implementation for Neos CMS",
-            "time": "2017-01-26 10:59:19"
+            "time": "2017-01-26 11:27:07"
         },
         {
             "name": "typo3fluid/fluid",
