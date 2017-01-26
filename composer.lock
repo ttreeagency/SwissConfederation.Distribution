@@ -853,21 +853,21 @@
         },
         {
             "name": "matthiasmullie/minify",
-            "version": "1.3.42",
+            "version": "1.3.43",
             "source": {
                 "type": "git",
                 "url": "https://github.com/matthiasmullie/minify.git",
-                "reference": "b473affbb76ae6ec4e46d368b5081b5bfcdd3ed2"
+                "reference": "aa50b2dab6fa7bfd402d334fe51005d6f2526ad7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/matthiasmullie/minify/zipball/b473affbb76ae6ec4e46d368b5081b5bfcdd3ed2",
-                "reference": "b473affbb76ae6ec4e46d368b5081b5bfcdd3ed2",
+                "url": "https://api.github.com/repos/matthiasmullie/minify/zipball/aa50b2dab6fa7bfd402d334fe51005d6f2526ad7",
+                "reference": "aa50b2dab6fa7bfd402d334fe51005d6f2526ad7",
                 "shasum": ""
             },
             "require": {
                 "ext-pcre": "*",
-                "matthiasmullie/path-converter": "~1.0",
+                "matthiasmullie/path-converter": "~1.1",
                 "php": ">=5.3.0"
             },
             "require-dev": {
@@ -906,7 +906,7 @@
                 "minifier",
                 "minify"
             ],
-            "time": "2016-11-23 10:16:14"
+            "time": "2017-01-26 15:48:07"
         },
         {
             "name": "matthiasmullie/path-converter",
@@ -1593,12 +1593,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/neos/setup.git",
-                "reference": "c562647e8a600495357dfd3517b593d0662fcb14"
+                "reference": "310d43d664a3c2de12ca119f8e0ae4c93715965d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/neos/setup/zipball/c562647e8a600495357dfd3517b593d0662fcb14",
-                "reference": "c562647e8a600495357dfd3517b593d0662fcb14",
+                "url": "https://api.github.com/repos/neos/setup/zipball/310d43d664a3c2de12ca119f8e0ae4c93715965d",
+                "reference": "310d43d664a3c2de12ca119f8e0ae4c93715965d",
                 "shasum": ""
             },
             "require": {
@@ -1668,7 +1668,7 @@
                 "LGPL-3.0+"
             ],
             "description": "An extensible setup tool for Neos Flow based applications",
-            "time": "2016-12-19 07:52:10"
+            "time": "2017-01-26 16:48:01"
         },
         {
             "name": "neos/twitter-bootstrap",
@@ -3839,7 +3839,7 @@
             "source": {
                 "type": "git",
                 "url": "ssh://git@github.com/ttreeagency/SwissConfederation.WebStarter.git",
-                "reference": "281041975275b7d4ba14472255d8f83305e10f94"
+                "reference": "d625424b7d4fa130dd2b483c4949488d82433ac4"
             },
             "require": {
                 "ttree/fusion-documentfinder": "*",
@@ -3930,7 +3930,7 @@
                 }
             },
             "description": "Swiss Confederation Web Guidelines implementation for Neos CMS",
-            "time": "2017-01-26 15:38:26"
+            "time": "2017-01-26 21:47:28"
         },
         {
             "name": "typo3fluid/fluid",
