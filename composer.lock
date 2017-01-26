@@ -3475,17 +3475,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ttreeagency/Fusion.DocumentFinder.git",
-                "reference": "ffc5d2bd577a8570134b8dbaed6244dbb534a8c3"
+                "reference": "8fb9c3bf288d4b0da068d01921beec62bad69362"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ttreeagency/Fusion.DocumentFinder/zipball/ffc5d2bd577a8570134b8dbaed6244dbb534a8c3",
-                "reference": "ffc5d2bd577a8570134b8dbaed6244dbb534a8c3",
+                "url": "https://api.github.com/repos/ttreeagency/Fusion.DocumentFinder/zipball/8fb9c3bf288d4b0da068d01921beec62bad69362",
+                "reference": "8fb9c3bf288d4b0da068d01921beec62bad69362",
                 "shasum": ""
             },
             "require": {
-                "ttree/fusion-canrender": "*",
-                "typo3/neos": "*"
+                "neos/neos": "*",
+                "ttree/fusion-canrender": "*"
             },
             "type": "neos-package",
             "extra": {
@@ -3570,7 +3570,7 @@
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
-            "time": "2017-01-26 08:18:52"
+            "time": "2017-01-26 08:49:32"
         },
         {
             "name": "ttree/swissconfederation-webstarter",
@@ -3578,7 +3578,7 @@
             "source": {
                 "type": "git",
                 "url": "ssh://git@github.com/ttreeagency/SwissConfederation.WebStarter.git",
-                "reference": "b3e915e3e8009a6a8e191172856dd11a5eb473e3"
+                "reference": "0bb27d7e170f608f6152ab7ee39aa830820d969d"
             },
             "require": {
                 "ttree/fusion-documentfinder": "*",
@@ -3667,7 +3667,7 @@
                 }
             },
             "description": "Swiss Confederation Web Guidelines implementation for Neos CMS",
-            "time": "2017-01-26 08:23:59"
+            "time": "2017-01-26 08:42:47"
         },
         {
             "name": "typo3fluid/fluid",
