@@ -1,0 +1,19 @@
+bund-neos-starterkit.dev:8180 {
+    gzip
+
+    tls self_signed
+    log / stdout
+
+    fastcgi / 127.0.0.1:9000 php {
+      env FLOW_CONTEXT Development
+      env FLOW_REWRITEURLS 1
+      env PHP_BINDIR /usr/local/php5/bin
+    }
+
+    rewrite / {
+      to {path} {path}/ /index.php?{query}
+    }
+
+    startup /usr/local/bin/php-fpm-wrapper &
+    shutdown pkill php-fpm
+}
