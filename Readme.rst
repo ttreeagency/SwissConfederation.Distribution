@@ -1,20 +1,22 @@
-------------------
-Flow Framework 3.3
-------------------
+----------------------------
+Neos CMS admin.ch webstarter
+----------------------------
 
-Welcome to Flow!
+What is Neos CMS admin.ch webstarter ?
+--------------------------------------
 
-There are a few things you need to know to get started.
-All necessary steps are explained in the `Getting Started tutorial <http://flowframework.readthedocs.io/en/stable/Quickstart/index.html>`_.
+The Neos CMS admin.ch webstarter provides theme and elements based on the official styleguide (version 3.0.0) of the Swiss Federal Administration: http://swiss.github.io/styleguide.
 
-In short here's what you need to do:
+This kit provides a base to quickly implement a website running on Neos CMS 3.0 for the Swiss Federal Administration.
 
-1) Set up a virtual host for your web server and let it point to the Web/
-   directory of Flow.
-2) Adjust the file permissions. On Linux / Mac just run
-   ``sudo ./flow flow:core:setfilepermissions johndoe wwwuser wwwgroup``
-   from Flow's main directory (replace the user names by some matching
-   your system environment!).
-3) Call the URL leading to your virtual host from a browser
+Install
+-------
 
-Have fun!
+.. code-block:: bash
+
+    git clone https://github.com/ttreeagency/SwissConfederation.Distribution
+    cd SwissConfederation.Distribution
+    composer install
+    cd Packages/Sites/Ttree.SwissConfederation.WebStarter
+    npm i
+    gulp copy
