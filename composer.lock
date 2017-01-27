@@ -1115,12 +1115,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/neos/flow-development-collection.git",
-                "reference": "5bbab5648baef3b7bb66fe0cf390136d4ec47d43"
+                "reference": "86c5fe17a0e3b74451d45250b71e13f36b78faff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/neos/flow-development-collection/zipball/5bbab5648baef3b7bb66fe0cf390136d4ec47d43",
-                "reference": "5bbab5648baef3b7bb66fe0cf390136d4ec47d43",
+                "url": "https://api.github.com/repos/neos/flow-development-collection/zipball/86c5fe17a0e3b74451d45250b71e13f36b78faff",
+                "reference": "86c5fe17a0e3b74451d45250b71e13f36b78faff",
                 "shasum": ""
             },
             "require": {
@@ -1225,7 +1225,7 @@
                 "MIT"
             ],
             "description": "Flow packages in a joined repository for pull requests.",
-            "time": "2017-01-26 08:23:45"
+            "time": "2017-01-27 08:07:18"
         },
         {
             "name": "neos/form",
@@ -3839,7 +3839,7 @@
             "source": {
                 "type": "git",
                 "url": "ssh://git@github.com/ttreeagency/SwissConfederation.WebStarter.git",
-                "reference": "4aba69abab55da9997bd225760655810d5f4629d"
+                "reference": "7cad586148be79ccb7949a80158f23f1392f334a"
             },
             "require": {
                 "ttree/fusion-documentfinder": "*",
@@ -3930,7 +3930,7 @@
                 }
             },
             "description": "Swiss Confederation Web Guidelines implementation for Neos CMS",
-            "time": "2017-01-26 22:10:25"
+            "time": "2017-01-27 08:51:11"
         },
         {
             "name": "typo3fluid/fluid",
